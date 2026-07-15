@@ -1,15 +1,15 @@
 # Hi 👋 I'm Maximiliano Candia
 ### Full Stack Developer SSR | Tech Educator | IT Student
 
-I am a passionate Full Stack Developer currently working at emBlue, a leading digital marketing platform in Latin America[cite: 1]. I love creating innovative and user-friendly solutions using JavaScript, Angular, and Node.js[cite: 1]. With a unique educational background that touches on genetics, functional medicine, and neuroscience[cite: 1], I bring a highly analytical and problem-solving mindset to software engineering.
+I am a passionate Full Stack Developer currently working at emBlue, a leading digital marketing platform in Latin America. I love creating innovative and user-friendly solutions using JavaScript, Angular, and Node.js. With a unique educational background that touches on genetics, functional medicine, and neuroscience, I bring a highly analytical and problem-solving mindset to software engineering.
 
 When I'm not writing code for work, I'm building scalable applications, mentoring upcoming developers, or exploring new technologies.
 
 * 🌍 I'm based in Posadas, Misiones, Argentina.
-* 💼 Currently working as a **Developer SSR at emBlue Latam**[cite: 1].
-* 🎓 Pursuing a technical degree in Information Technology at Colegio Universitario IES[cite: 1].
-* 🗣️ Bilingual in Spanish (Native) and English (Upper Intermediate B2)[cite: 1].
-* 📫 How to reach me: [candiamaximiliano.mac@gmail.com](mailto:candiamaximiliano.mac@gmail.com)[cite: 1] | [LinkedIn](https://www.linkedin.com/in/maximilianocandia)[cite: 1]
+* 💼 Currently working as a **Developer SSR at emBlue Latam**.
+* 🎓 Pursuing a technical degree in Information Technology at Colegio Universitario IES.
+* 🗣️ Bilingual in Spanish (Native) and English (Upper Intermediate B2).
+* 📫 How to reach me: [candiamaximiliano.mac@gmail.com](mailto:candiamaximiliano.mac@gmail.com) | [LinkedIn](https://www.linkedin.com/in/maximilianocandia)
 
 ---
 
@@ -47,9 +47,9 @@ When I'm not writing code for work, I'm building scalable applications, mentorin
 
 ### 💼 Experience Highlights
 
-* **Developer SSR** @ [emBlue Latam](https://www.embluemail.com/) *(Aug 2022 - Present)*[cite: 1]
-* **Mentor** @ [Henry](https://www.soyhenry.com/) *(Feb 2023 - Feb 2024)*[cite: 1]
-* **Tutor** @ [Coderhouse](https://www.coderhouse.com/) *(Dec 2022 - Jul 2023)*[cite: 1]
+* **Developer SSR** @ [emBlue Latam](https://www.embluemail.com/) *(Aug 2022 - Present)*
+* **Mentor** @ [Henry](https://www.soyhenry.com/) *(Feb 2023 - Feb 2024)*
+* **Tutor** @ [Coderhouse](https://www.coderhouse.com/) *(Dec 2022 - Jul 2023)*
 
 ---
 
