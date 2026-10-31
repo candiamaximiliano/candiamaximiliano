@@ -24,7 +24,7 @@
 
 ## ⚡ What I can build for you
 
-| | |
+| Service | What you get |
 |---|---|
 | 🚀 **SaaS & MVP builds** | From first screen to paying users: auth, data model, dashboards, deploy. |
 | 📅 **Booking & business systems** | Appointments, enrollment, payments, schedules and client history. |
